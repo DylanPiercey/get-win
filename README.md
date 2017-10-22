@@ -34,7 +34,7 @@
   </a>
   <!-- Size -->
   <a href="https://npmjs.org/package/get-win">
-    <img src="https://img.shields.io/badge/size-323b-green.svg" alt="Browser Bundle Size"/>
+    <img src="https://img.shields.io/badge/gzipped-441b-green.svg" alt="Browser Bundle Size"/>
   </a>
 </h1>
 
